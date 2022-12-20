@@ -1,0 +1,27 @@
+button {
+    height: 30px;
+    width: 200px;
+    outline: none;
+    margin: 1px;
+    border-radius: 25px;
+    background-color:rgb(255, 150, 65) ;
+    font-family: 'VT323', monospace;
+  }
+
+  body{
+    background-color: rgb(197, 197, 192);
+    font-family: 'VT323', monospace;
+    font-size: large;
+
+  }
+
+  #urls
+{
+    height:200px;
+    font-size:14pt;
+}
+
+input{
+  border-radius: 25px;
+}
+
